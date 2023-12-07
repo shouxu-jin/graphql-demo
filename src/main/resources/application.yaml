@@ -1,0 +1,10 @@
+graphiql:
+  enabled: true
+
+
+server:
+  port: 8080
+
+#logging:
+#  level:
+#    root: trace
